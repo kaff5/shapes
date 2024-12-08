@@ -1,0 +1,12 @@
+/Users/kaff3/RiderProjects/Shapes/Shapes/bin/Debug/net6.0/Shapes.deps.json
+/Users/kaff3/RiderProjects/Shapes/Shapes/bin/Debug/net6.0/Shapes.dll
+/Users/kaff3/RiderProjects/Shapes/Shapes/bin/Debug/net6.0/ref/Shapes.dll
+/Users/kaff3/RiderProjects/Shapes/Shapes/bin/Debug/net6.0/Shapes.pdb
+/Users/kaff3/RiderProjects/Shapes/Shapes/obj/Debug/net6.0/Shapes.csproj.AssemblyReference.cache
+/Users/kaff3/RiderProjects/Shapes/Shapes/obj/Debug/net6.0/Shapes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaff3/RiderProjects/Shapes/Shapes/obj/Debug/net6.0/Shapes.AssemblyInfoInputs.cache
+/Users/kaff3/RiderProjects/Shapes/Shapes/obj/Debug/net6.0/Shapes.AssemblyInfo.cs
+/Users/kaff3/RiderProjects/Shapes/Shapes/obj/Debug/net6.0/Shapes.csproj.CoreCompileInputs.cache
+/Users/kaff3/RiderProjects/Shapes/Shapes/obj/Debug/net6.0/Shapes.dll
+/Users/kaff3/RiderProjects/Shapes/Shapes/obj/Debug/net6.0/ref/Shapes.dll
+/Users/kaff3/RiderProjects/Shapes/Shapes/obj/Debug/net6.0/Shapes.pdb
